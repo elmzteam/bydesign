@@ -47,7 +47,7 @@
     "mkdirp": "^0.5.1",
     "moment": "^2.20.1",
     "mongodb": "^3.0.3",
-    "morgan": "^1.9.0",
+    "morgan": "^1.9.1",
     "multer": "^1.1.0",
     "passport": "^0.3.2",
     "passport-google-oauth": "^0.2.0",
